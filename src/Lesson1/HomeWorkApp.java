@@ -1,5 +1,6 @@
 package Lesson1;
 
+// Задание 1
 public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords();
